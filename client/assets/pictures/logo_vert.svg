@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178.951" height="270" viewBox="0 0 178.951 270">
+  <g id="Groupe_18" data-name="Groupe 18" transform="translate(780.476 -471)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="65" height="23" rx="8" transform="translate(-719 550)" fill="#54af54"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="79" height="17" rx="8" transform="translate(-726 529)" fill="#54af54"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="149" height="17" rx="8" transform="translate(-761 694)" fill="#54af54"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="36" height="23" rx="7" transform="translate(-726.167 584.246) rotate(-77)" fill="#54af54"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="59.141" height="23" rx="7" transform="translate(-657.486 681.167) rotate(-103)" fill="#54af54"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="110" height="23" rx="7" transform="translate(-746 666)" fill="#54af54"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="150.147" height="23" rx="11.5" transform="translate(-750.519 673.939) rotate(-57)" fill="#54af54"/>
+    <path id="Tracé_6" data-name="Tracé 6" d="M30,0C46.569,0,60,11.641,60,26s-.476,26-30,26S0,40.359,0,26,13.431,0,30,0Z" transform="translate(-716 471)" fill="#54af54"/>
+    <g id="Groupe_17" data-name="Groupe 17" transform="translate(-0.777)">
+      <path id="Tracé_7" data-name="Tracé 7" d="M12.471,0h93.276c2.607,0,4.721,3.582,4.721,8V18c0,4.418-2.113,8-4.721,8H4.844C2.237,26,.3,22,.3,18l.5-5.822C.805,7.76,6.92,1.076,12.471,0Z" transform="translate(-780 715)" fill="#54af54"/>
+      <path id="Tracé_8" data-name="Tracé 8" d="M98.3,0H5.022C2.415,0,.3,3.582.3,8V18c0,4.418,2.113,8,4.721,8h100.9c2.607,0,4.543-4,4.543-8l-.5-5.822C109.963,7.76,103.848,1.076,98.3,0Z" transform="translate(-711.214 715)" fill="#54af54"/>
+    </g>
+  </g>
+</svg>
