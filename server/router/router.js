@@ -11,9 +11,12 @@ module.exports = function(app, myDataBase) {
         .get((req, res) => {
             const user = req.params.player;
 
-            if (player) {
-                res.send("search in data base for a player's results")
+            if (!player) {
+                throw new Error("Player not found");
             }
+
+            res.send("search in data base for a player's results")
+
         })
 
 }
