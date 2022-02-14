@@ -10,8 +10,6 @@ const myDB = require("./db/connection");
 app.use(express.json());
 app.use(cors({origin: "*"}));
 
-
-
 app.get("/", (req, res) => {
     res.send("Hello From the server");
 })
