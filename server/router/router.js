@@ -2,12 +2,12 @@ const ObjectId = require("mongodb").ObjectId;
 
 module.exports = function(app, myDataBase) {
 
-    app.route("api/results")
+    app.route("/api/results")
         .get((req, res) => {
             res.send("Results table");
         })
 
-    app.route("api/results/:player")
+    app.route("/api/results/:player")
         .get((req, res) => {
             const user = req.params.player;
 
