@@ -9,7 +9,8 @@ module.exports = function(app, myDataBase) {
 
     app.route("/api/results/:player")
         .get((req, res) => {
-            const user = req.params.player;
+            const player = req.params.player;
+            console.log(player)
 
             if (!player) {
                 throw new Error("Player not found");
