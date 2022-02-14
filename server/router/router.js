@@ -7,7 +7,7 @@ module.exports = function(app, myDataBase) {
             res.send("Results table");
         })
 
-    app.route("/api/results/:player&:result")
+    app.route("/api/results/:player/:result")
         .get((req, res) => {
             const {player} = req.params;
             console.log(player)
